@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/julian.munozm/dojo_scala/src/main/scala/main.scala:61:42: value students is not a member of WebServer.Course[0m
+[0m[[0m[31merror[0m] [0m[0m        .flatMap(course => Option(course.students))[0m
+[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
